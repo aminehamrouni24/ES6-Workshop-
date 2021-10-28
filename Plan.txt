@@ -1,0 +1,10 @@
+Array
+Destructuring
+Spread operator
+Variables
+Number methodes
+String methods
+Template literals
+Ternary operator 
+Functions
+Modules
